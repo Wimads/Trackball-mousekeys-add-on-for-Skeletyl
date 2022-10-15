@@ -1,6 +1,5 @@
-# Trackball-mousekey-add-on-for-Bastardkb-Skeletyl-v3v7
+# Trackball and mousekey add-on for Bastardkb Skeletyl
 
-This is a trackball and mousekey add-on for the Bastardkb Skeletyl.
 The add-on is designed around the following components:
 * Unmodified Skeletyl_v3v7 case (compatibility with earlier or newer versions has not been tested, but should be easily adaptable).
 * Tindie PWM3360 sensor pcb (for its compact size as compared to the charybdis sensor pcb)
