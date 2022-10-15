@@ -16,3 +16,7 @@ The add-on is designed around the following components:
 2. The ball position is slightly different, and intended to be used by your middle finger/ring finger, instead of the thumb.
 3. It doesn't sacrifice a thumb key on the trackball side.
 4. For the other keyboard half there is an add-on for 2 mouse keys, so you don't have to mess around with layers to use the mouse.
+
+![](https://raw.githubusercontent.com/Wimads/Trackball-mousekey-add-on-for-Bastardkb-Skeletyl-v3v7/main/Screenshot%202022-10-15%20174640.jpg)
+
+![](https://raw.githubusercontent.com/Wimads/Trackball-mousekey-add-on-for-Bastardkb-Skeletyl-v3v7/main/Screenshot%202022-10-15%20174837.jpg)
