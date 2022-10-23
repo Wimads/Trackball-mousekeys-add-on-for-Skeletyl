@@ -6,10 +6,12 @@ The add-on is designed around the following components:
 * Same roller bearings as Charybdis (MR63-3x6x2.5mm)
 
 **How is this different from a Charybdis?**
-1. This is meant to be an add-on for an existing skeletyl build (ie, you already built a skeletyl, and decided you want a trackball as well). It doesn't require a modified case, so you don't have to build an entirely new board and trash your skeletyl. You can simply add it to your existing skeletyl. Note that this may require some rewiring of the pinouts on the mcu to the keymatrix, and will require adapting the charybdis firmware, so some basic technical knowledge is required for this mod.
+1. This is meant to be an add-on for an existing skeletyl build (ie, you already built a skeletyl, and decided you want a trackball as well). It doesn't require a modified case, so you don't have to build an entirely new board and trash your skeletyl. You can simply add it to your existing skeletyl. 
 2. The ball position is slightly different, and intended to be used by your middle finger/ring finger, instead of the thumb.
 3. It doesn't sacrifice a thumb key on the trackball side.
 4. For the other keyboard half there is an add-on for 2 mouse keys, so you don't have to mess around with layers to use the mouse.
+
+Note that this mod may require some rewiring of the pinouts on the mcu to the keymatrix, and will require adapting the charybdis firmware, so some basic technical knowledge is required for this mod.
 
 ![](https://raw.githubusercontent.com/Wimads/Trackball-mousekey-add-on-for-Bastardkb-Skeletyl-v3v7/main/Screenshot%202022-10-15%20174640.jpg)
 
