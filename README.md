@@ -1,9 +1,12 @@
 # Trackball and mousekey add-on for Bastardkb Skeletyl
 
 The add-on is designed around the following components:
-* Unmodified Skeletyl_v3v7 case (compatibility with earlier or newer versions has not been tested, but should be easily adaptable).
+* Unmodified Skeletyl_v3v7 case (compatibility with earlier or newer versions of the case has not been tested).
 * Tindie PWM3360 sensor pcb (for its compact size as compared to the charybdis sensor pcb)
 * Same roller bearings as Charybdis (MR63-3x6x2.5mm)
+* 2x M3x5x5 screw inserts
+* 2x M3x10 countersunk screws (for mounting the trackball holder)
+* 3x M3x8 set screws (for the rollers)
 
 **How is this different from a Charybdis?**
 1. This is meant to be an add-on for an existing skeletyl build (ie, you already built a skeletyl, and decided you want a trackball as well). It doesn't require a modified case, so you don't have to build an entirely new board and trash your skeletyl. You can simply add it to your existing skeletyl. 
@@ -22,6 +25,6 @@ Note that this mod may require some rewiring of the pinouts on the mcu to the ke
 * STL files are uploaded, and prints have been ordered from JLCPCB. *NOTE:* these are designed for MJF or SLS prints that do not require supports. If printing by FDM, you may face issues with overhang of the cutouts for the the rubber bumpers in the bottom plates, for which adding supports may not be very practical. If you want to print by FDM, I recommend editing the source file to remove those cutouts.
 * Sensor has arrived and has been wired up (requiring rewiring of elite-c for pinouts of the keymatrix as well, since those were occupying the pinouts required for the trackball). Depending on your version of the skeletyl (v1 or v2 shield, or different mcu), this may be different for you.
 * Charybdis firmware was succesfully adapted. The required modifications in the firmware are highly dependend on your version of the skeletyl and how you have wired it up though, so haven't added my firmware adaptations to this repository. If you want to build this for yourself and cannot figure out the firmware, shoot me a message here, or on the bastardkb discord server.
-* Waiting for 3D prints to arrive to put everything together.
+* Waiting for 3D prints to arrive to put everything together. So the 3D design has not yet been tested IRL, and may still contain design errors, print at your own risk.
 * if there appears to be a lot of interest, I may write some basic build instructions and pointers on how to adapt the firmware.
 
