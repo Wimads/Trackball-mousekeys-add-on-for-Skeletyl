@@ -46,5 +46,11 @@ I wired the mousekeys to the same row as the thumb cluster. The 3 thumb keys occ
 
 
 **Firmware**
-
-For the firmware I have adapted the charybdis frimware. You can use the charybdis firmware on qmk mainstream (bastardkb/charybdis/3x5). Make your own keymap folder, and add the firmware files from this repository in your keymapfolder. If your wiring is identical to mine, you should be good to go! If you wired to different pins than me, need to change the config.h file accordingly. If you didn't add the mouse keys, or wired them differently, you will need to adapt the 3x5.h and info.json files as well.
+The basis for the firmware is the firmware for the bastardkb Charybdis
+* To use the firmware, fork from qmk mainstream (https://github.com/qmk/qmk_firmware)
+* Add your own keymap folder in keyboards/bastardkb/charybdis/3x5/keymaps/\[my keymap folder]
+* Copy the firmware files from this repository into your keymap folder
+* If your wiring is identical to mine, you are now good to go.
+* For compiling the firmware: qmk compile -kb bastardkb/charybdis/3x5/v1/elitec -km \[my keymap folder]
+* If your trackball side wiring is different than mine, you will need to adapt the config.h file accordingly
+* If you didn't add the mousekeys, or wired them differently, you will also need to adapt the 3x5.h and info.json files. 
