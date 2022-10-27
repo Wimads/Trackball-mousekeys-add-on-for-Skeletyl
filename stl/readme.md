@@ -1,4 +1,5 @@
 **notes on stl files**
+
 These files were designed to be printed using MJF. SLS should also work.
 If you want to print in FDM, I recommend removing the cutouts for the rubber bumpers on the bottom of the plates, since adding support may not be a very convenient solution here.
 To edit these files, I recommend using the source file in OnShape: 
