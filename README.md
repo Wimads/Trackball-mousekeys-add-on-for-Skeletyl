@@ -8,12 +8,14 @@ This add-on is designed around the following components:
 * 34mm trackball (like the one in a logitech M575)
 * Tindie PWM3360 sensor pcb (for its compact size as compared to the charybdis sensor pcb)
 * Same roller bearings as Charybdis (MR63-3x6x2.5mm)
-* 2x M3x5x5 screw inserts (for mounting the trackball holder to the plate)
+* 2x M3x5x5 heated screw inserts (for mounting the trackball holder to the plate) (make sure you print in a material that can take heated screw inserts)
 * 2x M3x10 countersunk screws (for mounting the trackball holder to the plate)
 * 3x M3x8 set screws (for mounting the rollers)
 * The mousekey plate is designed for MX switches.
 * Requires 2 diodes for the mousekey plate.
 
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Screenshot%202022-10-15%20174640.jpg)
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Screenshot%202022-10-15%20174837.jpg)
 
 **How is this different from a Charybdis?**
 1. This is meant to be an add-on for an existing skeletyl build (ie, you already built a skeletyl, and decided you want a trackball as well). It doesn't require a modified case, so you don't have to build an entirely new board and trash your skeletyl. You can simply add it to your existing skeletyl. 
