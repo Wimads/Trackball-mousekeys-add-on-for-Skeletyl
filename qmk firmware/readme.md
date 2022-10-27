@@ -1,4 +1,4 @@
-** Notes on firmware **
+**Notes on firmware**
 
 * To use this firmware, fork from qmk mainstream (https://github.com/qmk/qmk_firmware)
 * Add your own keymap folder in keyboards/bastardkb/charybdis/3x5/keymaps/\[my keymap folder]
