@@ -17,7 +17,9 @@ This add-on is designed around the following components:
 ![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Screenshot%202022-10-15%20174640.jpg)
 ![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Screenshot%202022-10-15%20174837.jpg)
 
+
 **How is this different from a Charybdis?**
+
 1. This is meant to be an add-on for an existing skeletyl build (ie, you already built a skeletyl, and decided you want a trackball as well). It doesn't require a modified case, so you don't have to build an entirely new board and trash your skeletyl. You can simply add it to your existing skeletyl. 
 2. The ball position is slightly different, and intended to be used by your middle finger/ring finger, instead of the thumb.
 3. It doesn't sacrifice a thumb key on the trackball side.
@@ -25,6 +27,7 @@ This add-on is designed around the following components:
 
 
 **Wiring trackball and mousekeys**
+
 How to wire up the trackball sensor and the mousekeys will depend on your existing skeletyl build. Below are instructions for a Skeletyl V3, with the v1 Elite-c shield; if your setup is different, your wiring (and thus your firmware) will be different as well.
 
 *Trackball sensor*
@@ -46,6 +49,7 @@ I wired the mousekeys to the same row as the thumb cluster. The 3 thumb keys occ
 
 
 **Firmware**
+
 The basis for the firmware is the firmware for the bastardkb Charybdis
 * To use the firmware, fork from qmk mainstream (https://github.com/qmk/qmk_firmware)
 * Add your own keymap folder in keyboards/bastardkb/charybdis/3x5/keymaps/\[my keymap folder]
