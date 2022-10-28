@@ -1,3 +1,4 @@
+### This rules.mk file is for elite-c v1 shield. If you use another shield or other mcu, you will need to adapt this file accordingly.
 # MCU name
 MCU = atmega32u4
 
@@ -26,7 +27,6 @@ RGB_MATRIX_DRIVER = WS2812
 # Charybdis nano is a split 3x5 keyboard with a maximum of 3 thumb keys (2 on
 # the trackball side).
 SPLIT_KEYBOARD = yes
-#LAYOUTS = charybdis_3x5    # charybdis layout is not used for Wimads mod
 
 POINTING_DEVICE_ENABLE = yes # Enable trackball
 POINTING_DEVICE_DRIVER = pmw3360
