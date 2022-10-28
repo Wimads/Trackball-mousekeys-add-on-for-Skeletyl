@@ -45,7 +45,7 @@ The trackball requires to use the MOSI, MISO and SCK pins of the elite-c, which 
 
 *Mousekeys*
 
-I wired the mousekeys to the same row as the thumb cluster. The 3 thumb keys occupy C2R4, C4R4, C5R5; the mouse keys will be wired to C3R4, and C6R4. The columns require a diode, with the black line facing away from the switch.
+I wired the mousekeys to the same row as the thumb cluster. The 3 thumb keys occupy C2R4, C4R4, C5R4; the mouse keys will be wired to C3R4, and C6R4. The columns require a diode, with the black line facing away from the switch.
 
 
 **Firmware**
