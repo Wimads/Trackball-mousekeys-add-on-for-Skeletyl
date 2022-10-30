@@ -8,7 +8,7 @@
 ![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/2022-10-30%2016.10.34.jpg)
 
 This add-on is designed around the following components:
-* Unmodified Skeletyl_v3v7 case (compatibility with earlier or newer versions of the case has not been tested).
+* Unmodified Skeletyl_v3v7 case (compatibility with earlier or newer versions of the case has not been tested). Bastardkb github repository: https://github.com/Bastardkb/Skeletyl/tree/main/archive/V3
 * 34mm trackball (like the one in a logitech M575)
 * Tindie PWM3360 sensor pcb (for its compact size as compared to the charybdis sensor pcb)
 * Same roller bearings as Charybdis (MR63-3x6x2.5mm)
@@ -17,6 +17,9 @@ This add-on is designed around the following components:
 * 3x M3x8 set screws (for mounting the rollers)
 * The mousekey plate is designed for MX switches.
 * Requires 2 diodes for the mousekey plate.
+
+Source 3D files in OnShape: 
+https://cad.onshape.com/documents/c7d31654920783cf2170d04f/w/e26ac92a8d6e84ba2575ffdb/e/2fa55001fc01750eb4b64711?renderMode=0&uiState=635adfd41587a72417afa9e9
 
 ![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Screenshot%202022-10-15%20174640.jpg)
 ![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Screenshot%202022-10-15%20174837.jpg)
