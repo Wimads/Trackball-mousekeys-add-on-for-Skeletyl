@@ -1,7 +1,11 @@
 # Trackball and mousekey add-on for Bastardkb Skeletyl
 
 
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/2022-10-30%2017.02.23.jpg)
 
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/2022-10-30%2016.09.59.jpg)
+
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/2022-10-30%2016.10.34.jpg)
 
 This add-on is designed around the following components:
 * Unmodified Skeletyl_v3v7 case (compatibility with earlier or newer versions of the case has not been tested).
