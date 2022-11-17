@@ -9,14 +9,16 @@
 
 This add-on is designed around the following components:
 * Unmodified Skeletyl_v3v7 case (compatibility with earlier or newer versions of the case has not been tested). Bastardkb github repository: https://github.com/Bastardkb/Skeletyl/tree/main/archive/V3
-* 34mm trackball (like the one in a logitech M575)
-* Tindie PWM3360 sensor pcb (for its compact size as compared to the charybdis sensor pcb)
-* Same roller bearings as Charybdis (MR63-3x6x2.5mm)
-* 2x M3x5x5 heated screw inserts (for mounting the trackball holder to the plate) (make sure you print in a material that can take heated screw inserts)
-* 2x M3x10 countersunk screws (for mounting the trackball holder to the plate)
-* 3x M3x8 set screws (for mounting the rollers)
 * The mousekey plate is designed for MX switches.
 * Requires 2 diodes for the mousekey plate.
+* Trackball plate is designed for a 34mm trackball (like the one in a logitech M575)
+* Tindie PWM3360 sensor pcb (for its compact size as compared to the charybdis sensor pcb)
+* 2x M3x5x5 heated screw inserts (for mounting the trackball holder to the plate) (make sure you print in a material that can take heated screw inserts)
+* 2x M3x10 countersunk screws (for mounting the trackball holder to the plate)
+* There is 3 options for bearings:
+  * Roller bearings (MR63-3x6x2.5mm), with 3x M3x8 set screws to mount them.
+  * BTU bearings (Veichu VCN310, 7.5mm)
+  * Static bearings (3mm ZrO2 or Si3N4 balls)
 
 Source 3D files in OnShape: 
 https://cad.onshape.com/documents/c7d31654920783cf2170d04f/w/e26ac92a8d6e84ba2575ffdb/e/2fa55001fc01750eb4b64711?renderMode=0&uiState=635adfd41587a72417afa9e9
