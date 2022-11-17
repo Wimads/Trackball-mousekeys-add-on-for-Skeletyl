@@ -9,6 +9,6 @@ Files to print:
 * For mouse keys: mousekey-plate_v221018
 * For trackball: trackball-plate_v221027
 * There is 3 options for trackball bearings, which require different files to print for the trackball holder:
-  1. For roller bearings (MR63-3x6x2.5mm), print trackball-holder_v221027
-  2. For BTU bearings (Veichu VCN310, 7.5mm), print trackball-holder-v2_v221116
-  3. For static ceramic bearings (3mm ZrO2 or Si3N4 balls), print trackball-holder-v2_v221116 and 3x static-bearing-holder_v221117
+  * Option 1: For roller bearings (MR63-3x6x2.5mm), print trackball-holder_v221027
+  * Option 2: For BTU bearings (Veichu VCN310, 7.5mm), print trackball-holder-v2_v221116
+  * Option 3: For static ceramic bearings (3mm ZrO2 or Si3N4 balls), print trackball-holder-v2_v221116 and 3x static-bearing-holder_v221117
