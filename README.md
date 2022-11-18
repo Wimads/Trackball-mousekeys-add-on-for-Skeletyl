@@ -1,11 +1,11 @@
 # Trackball and mousekey add-on for Bastardkb Skeletyl
 
 
-![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/2022-10-30%2017.02.23.jpg)
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Full%20setup.jpg)
 
-![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/2022-10-30%2016.09.59.jpg)
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Trackball%20half.jpg)
 
-![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/2022-10-30%2016.10.34.jpg)
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Mousekey%20half.jpg)
 
 This add-on is designed around the following components:
 * Unmodified Skeletyl_v3v7 case (compatibility with earlier or newer versions of the case has not been tested). Bastardkb github repository: https://github.com/Bastardkb/Skeletyl/tree/main/archive/V3
@@ -19,11 +19,18 @@ This add-on is designed around the following components:
   * Roller bearings (MR63-3x6x2.5mm), with 3x M3x8 set screws to mount them.
   * BTU bearings (Veichu VCN310, 7.5mm)
   * Static bearings (3mm ZrO2 or Si3N4 balls)
+  
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Roller%20bearings.jpg)
+
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Trackball%20BTU%20bearings.jpg)
+
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Trackball%20static%20bearings.jpg)
 
 Source 3D files in OnShape: 
 https://cad.onshape.com/documents/c7d31654920783cf2170d04f/w/e26ac92a8d6e84ba2575ffdb/e/2fa55001fc01750eb4b64711?renderMode=0&uiState=635adfd41587a72417afa9e9
 
 ![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Screenshot%202022-10-15%20174640.jpg)
+
 ![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Screenshot%202022-10-15%20174837.jpg)
 
 
@@ -41,6 +48,8 @@ How to wire up the trackball sensor and the mousekeys will depend on your existi
 
 *Trackball sensor*
 
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Trackball%20assembly.jpg)
+
 The trackball requires to use the MOSI, MISO and SCK pins of the elite-c, which are B1, B2 and B3. If you followed the build guide by bastardkb for v1 Elite-c shield, you will notice that these pins are already used by the key matrix, for column 4, 5 and 6. So you will need to rewire those columns. I have wired them as follows (if you want to use my firmware as a template, use these same pins):
 * Column 4: F1 (was B1)
 * Column 5: C7 (was B3)
@@ -55,6 +64,8 @@ The trackball requires to use the MOSI, MISO and SCK pins of the elite-c, which 
 *Mousekeys*
 
 I wired the mousekeys to the same row as the thumb cluster. The 3 thumb keys occupy C2R4, C4R4, C5R4; the mouse keys will be wired to C3R4, and C6R4. The columns require a diode, with the black line facing away from the switch.
+
+![](https://github.com/Wimads/Trackball-mousekeys-add-on-for-Skeletyl/blob/main/Images/Mousekey%20closeup.jpg)
 
 
 **Firmware**
