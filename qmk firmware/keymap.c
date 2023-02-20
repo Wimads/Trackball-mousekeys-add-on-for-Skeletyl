@@ -21,7 +21,7 @@
 
 #include QMK_KEYBOARD_H
 
-#define LAYOUT(                                          \
+#define LAYOUT_Wimads(                                          \
   k00, k01, k02, k03, k04,      k44, k43, k42, k41, k40, \
   k10, k11, k12, k13, k14,      k54, k53, k52, k51, k50, \
   k20, k21, k22, k23, k24,      k64, k63, k62, k61, k60, \
@@ -43,7 +43,7 @@ enum charybdis_keymap_layers {
 };
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-  [_DEF] = LAYOUT(
+  [_DEF] = LAYOUT_Wimads(
   // ╭────────────────────────────────────────────╮                   ╭─────────────────────────────────────────────╮
       KC_Q,    KC_W,    KC_E,    KC_R,    KC_T,                         KC_Y,    KC_U,    KC_I,    KC_O,    KC_P,
   // ├────────────────────────────────────────────┤                   ├─────────────────────────────────────────────┤
