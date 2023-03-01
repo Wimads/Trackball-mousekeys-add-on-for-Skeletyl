@@ -11,4 +11,6 @@ Files to print:
 * There is 3 options for trackball bearings, which require different files to print for the trackball holder:
   * Option 1: For roller bearings (MR63-3x6x2.5mm), print trackball-holder_v221027
   * Option 2: For BTU bearings (Veichu VCN310, 7.5mm), print trackball-holder-v2_v221116
-  * Option 3: For static ceramic bearings (3mm ZrO2 or Si3N4 balls), print trackball-holder-v2_221116 AND static-bearing-holder_2.1_v230216.stl
+  * Option 3: For static ceramic bearings (3mm ZrO2 or Si3N4 balls), print trackball-holder-v2_221116 AND:
+    * (recommended) Static-bearing-holder_2.1_v230216.stl - latest version - which has the 3 bearing holders connected with a ring, which helps to prevent accidentally knocking the ball out of its socket, and may also help preventing any alignment issues due to printing tolerances.
+    * (old version) 3x Static-bearing-holder_v221117.stl - old version - 3 separate bearing holders, basically a dimensional copy of the 7.5mm Veichu VCN310 BTU's. Not recommended for this design, but may still be useful if you are working on any other project that was designed for these BTU's.
